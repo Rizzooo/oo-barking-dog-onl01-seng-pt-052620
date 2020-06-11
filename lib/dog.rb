@@ -8,5 +8,10 @@ class Dog
   end
   
   def bark=(dogs_bark)
-    @dogs_bark = 
+    @dogs_bark = barking
+  end
+  
+  def bark
+    
+    
 end
